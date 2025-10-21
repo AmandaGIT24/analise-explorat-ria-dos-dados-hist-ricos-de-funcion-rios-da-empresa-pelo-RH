@@ -21,7 +21,9 @@ A média de rotatividade entre os departamentos está em 70,4%, o que revela uma
 Observa-se uma baixa proporção de salários classificados como "altos" em praticamente todos os departamentos. Essa distribuição pode indicar baixas perspectivas de crescimento salarial interno, o que pode desmotivar colaboradores mais experientes ou com maior tempo de casa.
 
 high      10.18
+
 low       46.59
+
 medium    43.24   - visao geral
 
 
